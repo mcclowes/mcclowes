@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working for @Pollen
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/docs/)
 - 🏓 For fun, I'm dabbling in Unity
-- 📫 You can reach me @ <bit.ly/mcclowes>
+- 📫 You can reach me @ [bit.ly/mcclowes](https://bit.ly/mcclowes)
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: -->
