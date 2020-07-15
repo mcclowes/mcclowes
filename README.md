@@ -9,7 +9,7 @@ __Technical skills:__ React (Hooks, Context, GraphQL), Jest/Enzyme, React Native
 
 ### About me
 
-- 🔭 I’m currently working for @Pollen
+- 🔭 I’m currently working for [Pollen](https://pollen.co/uk)
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/docs/)
 - 🏓 For fun, I'm dabbling in Unity
 - 📫 You can reach me @ [bit.ly/mcclowes](https://bit.ly/mcclowes)
