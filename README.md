@@ -3,8 +3,6 @@
 Product Engineer. Delivery Management trained, Product Owner aspiring long-term. Diverse software and design background, and experience as a
 founder of a client-facing business. User-oriented developer. 
 
-🏆  Duke of York Young Entrepreneur Award winner 2017.
-
 __Technical skills:__ React (Hooks, Context, GraphQL), Jest/Enzyme, React Native, CSS (Styled-Components, SASS), Agile, Figma/Sketch/Adobe CS
 
 ### About me
