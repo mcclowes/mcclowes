@@ -3,16 +3,16 @@
   <br><br>
 
   <samp>
-    :wave: Hi! 👋
+    Hi! 👋
     <br><br>
     
-    I’m a Software Engineer @ [Pollen](https://pollen.co)
-    <br><br>
+  I’m a Software Engineer @ [Pollen](https://pollen.co)
+  <br><br>
   
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>
+  <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+  <br><br>
     
-    📫 You can reach me @ [bit.ly/mcclowes](https://bit.ly/mcclowes)
+  📫 You can reach me @ [bit.ly/mcclowes](https://bit.ly/mcclowes)
   </samp>
 </p>
 
