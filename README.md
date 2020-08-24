@@ -4,8 +4,8 @@
 
   <samp>
     <p>Hi! 👋</p>
-    <p>I’m a Software Engineer @ [Pollen](https://pollen.co)</p>
-    <p>📫 You can reach me @ [bit.ly/mcclowes](https://bit.ly/mcclowes)</p>
+  <p>I’m a Software Engineer @ <a href="https://pollen.co">Pollen</a></p>
+    <p>📫 You can reach me @ <a href="https://bit.ly/mcclowes">bit.ly/mcclowes</a></p>
   </samp>
 </div>
 
