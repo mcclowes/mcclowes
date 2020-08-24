@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://gph.is/g/EGdXqpJ" width="150px">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="150px">
   <br><br>
 
   <samp>
     <p>Hi! 👋</p>
-    <br><br>
     <p>I’m a Software Engineer @ [Pollen](https://pollen.co)</p>
-    <br><br>
     <p>📫 You can reach me @ [bit.ly/mcclowes](https://bit.ly/mcclowes)</p>
   </samp>
 </div>
