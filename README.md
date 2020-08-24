@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <img src="https://gph.is/g/EGdXqpJ" width="150px">
   <br><br>
 
@@ -9,7 +9,7 @@
     <br><br>
     <p>📫 You can reach me @ [bit.ly/mcclowes](https://bit.ly/mcclowes)</p>
   </samp>
-</p>
+</div>
 
 <details>
   <summary><b>⚡️ Skillz</b></summary>
