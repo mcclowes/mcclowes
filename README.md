@@ -17,6 +17,10 @@
 
 <details>
   <summary><b>🔧 Projects</b></summary>  
-  <p>🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/docs/)</p>
-  <p>🏓 For fun, I'm dabbling in Unity</p>
+  <ul>
+    <li>🏁 My [React Sample Project](https://github.com/mcclowes/mcclowes-react-sample-project)</li>
+    <li>🕴 Finally working on a [personal website](https://github.com/mcclowes/mcclowes.com)</li>
+    <li>🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/docs/)</li>
+    <li>🏓 For fun, I'm dabbling in Unity</li>
+  </ul>
 </details>
