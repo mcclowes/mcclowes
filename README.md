@@ -17,6 +17,7 @@
 
 <details>
   <summary><b>🔧 Projects</b></summary>  
+  <p>I tend to always have <i>something</i> on the go, but here are a few things I'm working on right now</p>
   <ul>
     <li>🏁 My [React Sample Project](https://github.com/mcclowes/mcclowes-react-sample-project)</li>
     <li>🕴 Finally working on a [personal website](https://github.com/mcclowes/mcclowes.com)</li>
