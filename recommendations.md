@@ -1,3 +1,7 @@
+# Recommendations
+
+Below are a collection of recommendations taken from [my LinkedIn profile](https://www.linkedin.com/in/maxclaytonclowes/).
+
 ### Manuel Morales
 _Engineering Manager @ Workshare_  
 
