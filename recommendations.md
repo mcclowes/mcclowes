@@ -15,7 +15,7 @@ I will be always grateful to Max, I joined the company being junior and he taugh
 Apart from that, Max is a very active developer who always brings new ideas and alternatives to the table, he is a very good profesional always worried about making the place where he is a better place.
 
 ### Mario Jimenez Calderon
-_Software Engineer_  
+_Software Engineer @ Workshare_  
 
 Max is an enthusiastic and open-minded developer who loves to work close to the design process and get involved into the technical details prior to the coding itself. We have been working together in the same team for more than a year and having Max is always so helpful when we talk about CSS issues or visual bugs because this guy is a beast on that matter!
 
