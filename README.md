@@ -6,7 +6,7 @@
     <p>Hi! 👋</p>
     <p>I’m a Software Engineer @ <a href="https://pollen.co">Pollen</a></p>
     <p>📫 You can reach me @ <a href="https://bit.ly/mcclowes">bit.ly/mcclowes</a></p>
-    <p>📃 You can see my CV [here](https://cv.mcclowes.com/)</p>
+    <p>📃 You can see my CV <a href="https://cv.mcclowes.com/">here</a></p>
   </samp>
 </div>
 
