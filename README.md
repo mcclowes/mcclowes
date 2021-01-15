@@ -14,7 +14,12 @@
 <details>
   <summary><b>⚡️ Skillz</b></summary>
   
-  <p><strong>Software Engineering:</strong> <em>React, TypeScript, GraphQL/Apollo, Jest/react-testing-library/Enzyme, Redux, CSS/Styled-Components (Responsive), React Native</em><br><strong>Product/Project Management:</strong> <em>Stakeholder management &amp; engagement, Agile (Scrum)</em><br><strong>Data:</strong> <em>Google Sheets (I live my life through it), ML, Python, SQL, R</em><br><strong>Design:</strong> <em>User research (ethnographic), Figma/Sketch, Adobe CS</em></p>
+  <p>
+    <strong>Product/Project Management:</strong> <em>Stakeholder management &amp; engagement, Agile (Scrum)</em><br>
+    <strong>Software Engineering:</strong> <em>React, TypeScript, GraphQL/Apollo, Jest/react-testing-library/Enzyme, Redux, CSS/Styled-Components (Responsive), React Native</em><br>
+    <strong>Data:</strong> <em>Google Sheets (I live my life through it), ML, Python, SQL, R</em><br>
+    <strong>Design:</strong> <em>User research (ethnographic), Figma/Sketch, Adobe CS</em>
+  </p>
 </details>
 
 <details>
