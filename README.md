@@ -4,15 +4,15 @@
 
   <samp>
     <p>Hi! 👋</p>
-  <p>I’m a Software Engineer @ <a href="https://pollen.co">Pollen</a></p>
+    <p>I’m a Software Engineer @ <a href="https://pollen.co">Pollen</a></p>
     <p>📫 You can reach me @ <a href="https://bit.ly/mcclowes">bit.ly/mcclowes</a></p>
+    <p>📃 You can see my CV [here](https://cv.mcclowes.com/)</p>
   </samp>
 </div>
 
 <details>
   <summary><b>⚡️ Skillz</b></summary>
-  <p>Product Engineer. Delivery Management trained, Product Owner aspiring long-term. Diverse software and design background, and experience as a founder of a client-facing business. User-oriented developer.</p>
-  <p><b>Technical skills:</b> React (Hooks, Context, GraphQL), Jest/Enzyme, React Native, CSS (Styled-Components, SASS), Agile, Figma/Sketch/Adobe CS</p>
+  <p>Product Manager with diverse software engineering and design background, and experience as a founder of a client-facing business. Have been delivering websites and apps for 10+ years. Duke of York Young Entrepreneur Award winner 2017.</p>
 </details>
 
 <details>
@@ -20,6 +20,7 @@
   <p>I tend to always have <i>something</i> on the go, but here are a few things I'm working on right now</p>
   <ul>
     <li>🏁 My [React Sample Project](https://github.com/mcclowes/mcclowes-react-sample-project)</li>
+    <li>📃 Generate a CV from Markdown using [cv-maker](https://github.com/mcclowes/cv-maker)</li>
     <li>🕴 Finally working on a [personal website](https://github.com/mcclowes/mcclowes.com)</li>
     <li>🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/docs/)</li>
     <li>🏓 For fun, I'm dabbling in Unity</li>
