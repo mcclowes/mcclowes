@@ -25,11 +25,11 @@
 
 <details>
   <summary><b>🔧 Projects</b></summary>  
-  <p>I tend to always have <i>something</i> on the go, but here are a few things I'm working on right now</p>
+  <p>I tend to always have <i>something</i> on the go, but here are a few things I'm working on right now:</p>
   <ul>
     <li>🏁 My own <a href="https://github.com/mcclowes/mcclowes-react-sample-project">React Sample Project</a></li>
     <li>📃 A tool for generating a CV from Markdown - <a href="https://github.com/mcclowes/cv-maker">cv-maker</a></li>
-    <li>🕴 A <a href="https://github.com/mcclowes/mcclowes.com">personal website</li>
+    <li>🕴 (Finally) developing a <a href="https://github.com/mcclowes/mcclowes.com">personal website</a></li>
     <li>🌱 Building up my <a href="https://www.typescriptlang.org/docs/">TypeScript</a> skills</li>
     <li>🏓 For fun, I'm building a game in Unity</li>
   </ul>
