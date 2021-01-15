@@ -27,10 +27,10 @@
   <summary><b>🔧 Projects</b></summary>  
   <p>I tend to always have <i>something</i> on the go, but here are a few things I'm working on right now</p>
   <ul>
-    <li>🏁 My <a href="https://github.com/mcclowes/mcclowes-react-sample-project">React Sample Project</a></li>
-    <li>📃 Generate a CV from Markdown using <a href="https://github.com/mcclowes/cv-maker">cv-maker</a></li>
-    <li>🕴 Finally working on a <a href="https://github.com/mcclowes/mcclowes.com">personal website</li>
-    <li>🌱 I’m currently learning <a href="https://www.typescriptlang.org/docs/">TypeScript</a></li>
-    <li>🏓 For fun, I'm dabbling in Unity</li>
+    <li>🏁 My own <a href="https://github.com/mcclowes/mcclowes-react-sample-project">React Sample Project</a></li>
+    <li>📃 A tool for generating a CV from Markdown - <a href="https://github.com/mcclowes/cv-maker">cv-maker</a></li>
+    <li>🕴 A <a href="https://github.com/mcclowes/mcclowes.com">personal website</li>
+    <li>🌱 Building up my <a href="https://www.typescriptlang.org/docs/">TypeScript</a> skills</li>
+    <li>🏓 For fun, I'm building a game in Unity</li>
   </ul>
 </details>
