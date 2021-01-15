@@ -4,7 +4,8 @@
 
   <samp>
     <p>Hi! 👋</p>
-    <p>I’m a Software Engineer @ <a href="https://pollen.co">Pollen</a></p>
+    <p>I'm a Product Manager with diverse software engineering and design background, and experience as a founder of a client-facing business. I've been delivering websites and apps for 10+ years. Duke of York Young Entrepreneur Award winner 2017.</p>
+    <p>Currently @ <a href="https://pollen.co">Pollen</a></p>
     <p>📫 You can reach me @ <a href="https://bit.ly/mcclowes">bit.ly/mcclowes</a></p>
     <p>📃 You can see my CV <a href="https://cv.mcclowes.com/">here</a></p>
   </samp>
@@ -12,7 +13,8 @@
 
 <details>
   <summary><b>⚡️ Skillz</b></summary>
-  <p>Product Manager with diverse software engineering and design background, and experience as a founder of a client-facing business. Have been delivering websites and apps for 10+ years. Duke of York Young Entrepreneur Award winner 2017.</p>
+  
+  <p><strong>Software Engineering:</strong> <em>React, TypeScript, GraphQL/Apollo, Jest/react-testing-library/Enzyme, Redux, CSS/Styled-Components (Responsive), React Native</em><br><strong>Product/Project Management:</strong> <em>Stakeholder management &amp; engagement, Agile (Scrum)</em><br><strong>Data:</strong> <em>Google Sheets (I live my life through it), ML, Python, SQL, R</em><br><strong>Design:</strong> <em>User research (ethnographic), Figma/Sketch, Adobe CS</em></p>
 </details>
 
 <details>
