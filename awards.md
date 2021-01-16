@@ -1,10 +1,10 @@
-# 🏆 Awards
+# 🏆 Awards & Prizes
 
 ## Duke of York Young Entrepreneur Award
 
 _2017_
 
-Was nominated for and given the Duke of York's Young Entrepreneur Award for co-founding Codogo.
+Received the Duke of York's Young Entrepreneur Award for co-founding Codogo.
 
 [Read more...](http://bit.ly/39ND8hl)
 
@@ -31,6 +31,12 @@ _2016_
 ## Enterprise Kickstart Winner
 
 _Durham University Enterprise Society, 2015_
+
+## Microsoft X Ravensbourne Design Competition
+
+_2012_
+
+Designed and pitched a BP Portrait Award app concept.
 
 ## Best Website Award
 
