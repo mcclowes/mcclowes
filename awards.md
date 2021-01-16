@@ -20,7 +20,7 @@ Awarded for my dissertation, _The Use of Genetic AI in the Balancing of Competit
 
 _Durham University, 2016_
 
-Won the Durham University Business & Enterprise Department's biggest prize for Codogo.
+Won Durham University's Business & Enterprise Department startup & IP awards off the back of an extensive business plan and pitch, securing the funding needed to start Codogo.
 
 [Read more...](http://bit.ly/2LTGruJ)
 
@@ -28,15 +28,19 @@ Won the Durham University Business & Enterprise Department's biggest prize for C
 
 _2016_
 
+Genesis brought together students and alumni from 5 universities across North East England. Awarded a business pitch grant for to further develop the business concept.
+
 ## Enterprise Kickstart Winner
 
 _Durham University Enterprise Society, 2015_
 
-## Microsoft X Ravensbourne Design Competition
+Over two days, developed, prototyped, and pitched a business and was awarded a grant and prize.
+
+## _Microsoft_X_Ravensbourne_ Design Competition
 
 _2012_
 
-Designed and pitched a BP Portrait Award app concept.
+Designed and pitched a BP Portrait Award app concept, winning mentorship and tech.
 
 ## Best Website Award
 
