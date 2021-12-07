@@ -2,6 +2,15 @@
 
 Below are a collection of recommendations taken from [my LinkedIn profile](https://www.linkedin.com/in/maxclaytonclowes/).
 
+### Sacha Rice
+_Lead Developer @ Swoop_
+
+I had the pleasure of working with Max at Swoop. His passion, creativity, people management skills and ability to converse with stakeholders and team members alike is something that is rare. 
+
+He has the ability to see every opportunity and challenge from multiple vantage points, a skill which few possess. It is these traits which when combined with his engineering and development experience allow him to design products which place the user experience and journey front and centre but also deliver for everyone in the chain from the stakeholders to the marketing team.
+
+Max is an asset to any team and a truly genuine, caring and hardworking person whom I was fortunate enough to work with.
+
 ### Manuel Morales
 _Engineering Manager @ Workshare_  
 
