@@ -6,7 +6,7 @@
     <p>Hi! 👋</p>
     <p>I'm a Product Manager with a diverse software engineering and design background, and experience as a founder of a client-facing business. I've been delivering websites and apps for 10+ years.</p>
     <p>🏆 Duke of York Young Entrepreneur Award winner 2017.</p>
-    <p>🏠 Currently Senior PM @ <a href="https://codat.io/">Codat</a></p>
+    <p>🏠 Currently Senior PM, Portal @ <a href="https://codat.io/">Codat</a></p>
     <p>📫 You can reach me @ <a href="https://bit.ly/mcclowes">bit.ly/mcclowes</a></p>
     <p>📃 You can see my CV <a href="https://cv.mcclowes.com/">here</a></p>
   </samp>
