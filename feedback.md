@@ -46,8 +46,7 @@ unstoppable force for positive change.
 others to get there. Doesn't shy away from areas for improvement in those around
 him.
 
-## What advice would you give this person to help them make the biggest improvement/s
-in their leadership?
+## What advice would you give this person to help them make the biggest improvements in their leadership?
 
 - I think Max's mentorship towards [his team] has let these
 individuals grow and progress really quickly. Looking from the side it seems that
