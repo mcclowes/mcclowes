@@ -2,6 +2,24 @@
 
 Below are a collection of recommendations taken from [my LinkedIn profile](https://www.linkedin.com/in/maxclaytonclowes/).
 
+### Andy Jackson
+_PM @ Codat, direct report_
+
+It has been a privilege working under Max’s leadership. Max is a truly transformational leader who empowers those around him to be bold, take initiative, and strive for excellence. His ability to foster both high-performance and a strong sense of trust within the team is something I will take and (try to) emulate in future.
+
+Max’s coaching and mentoring skills stand out as some of the best I’ve experienced. In our 1-1s, we often delved into what great product craft and leadership look like. Max always listened intently, offered thoughtful advice, and challenged me to grow. His guidance has had a lasting impact on how I approach my work, particularly in balancing strategic vision with the practicalities of execution.
+
+Max’s exceptional domain knowledge of Codat is another area where he truly shines. Despite being in charge of client experience, he went above and beyond in other areas - a great example being his crucial steer to add an SDK for Bank Feeds product. This ability to put himself in the shoes of our customers is remarkable and consistently led to impactful product decisions.
+
+In team settings, Max’s contributions were invaluable. His exceptional product instincts consistently helped steer the team toward impactful outcomes, and his high-agency approach pushed us to take ownership, get MVPs shipped quickly, and iterate effectively. Max leads by example—whether drafting up designs in Figma, jumping on client calls, or unblocking the team with decisive actions, he is always ready to roll up his sleeves and contribute directly.
+
+Max’s leadership has not only driven outstanding results but has also created an environment where individuals feel supported, challenged, and inspired. Any team would be lucky to have him at the helm, I am grateful for the opportunity to have worked with him and hope to work with him again.
+
+### Xavier King
+_Designer @ Codat_
+
+I had the pleasure of working with Max on a number of projects at Codat, in particular on the Developer Experience. Max made significant contributions to product and overall company. Max's data-driven approach and expertise with tools like Amplitude greatly enhanced our product development process. His ability to collaborate seamlessly with developers, designers, and stakeholders from all areas of the business was very impressive. Max's deep understanding of the company ensured that our products were always user-friendly and efficient. With his exceptional skills and dedication, Max would be a valuable asset to any company.
+
 ### Sacha Rice
 _Lead Developer @ Swoop_
 
