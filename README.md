@@ -5,14 +5,21 @@
   <samp>
     <p>Hi! 👋</p>
     <p>I'm a Product Manager with a diverse software engineering and design background, and experience as a founder of a client-facing business. I've been delivering websites and apps for 10+ years.</p>
-    <p>🏠 Product @ <a href="https://codat.io/">Codat</a></p>
     <p>📫 You can reach me @ <a href="https://bit.ly/mcclowes">bit.ly/mcclowes</a></p>
     <p>📃 You can see my CV <a href="https://cv.mcclowes.com/">here</a></p>
+    <p>I’ve spent my career hopping between code, design, and product strategy—sometimes all in the same day. I’ve built tools for the biggest banks in the world, run my own startup, and now I’m digging into hard problems in healthcare tech: data interoperability, automation, and making systems actually nice to use.</p>
+
+  <p>I’m big on developer experience (I’ve led platform and UX teams) and believe good software should feel like it was designed for humans first. Whether it’s an API, a dashboard, or an onboarding flow, I sweat the details.</p>
+
+  <p>Outside the screen, I write poetry, make music, and run — though not all at the same time. I’m also the kind of person who will disappear into a rabbit hole about anything from evolutionary AI to Pokémon game balance.</p>
+
+  <p>📍 North London born and bred.</p>
+  <p>🖋 <a href="mcclowes.com">More about me</a></p>
   </samp>
 </div>
 
 <details>
-  <summary><b>⚡️ Skillz</b></summary>
+  <summary><b>⚡️ Skills</b></summary>
   
   <p>
     <strong>Product/Project Management:</strong> <em>Stakeholder management &amp; engagement, Agile (Scrum)</em><br>
