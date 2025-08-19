@@ -2,6 +2,25 @@
 
 Below are a collection of recommendations taken from [my LinkedIn profile](https://www.linkedin.com/in/maxclaytonclowes/).
 
+### Zan Makarov
+_Software Engineer @ Codat_
+
+I was very fortunate to begin my career in tech working on the same team as Max, who had a significant impact on my development in both technical and interpersonal skills.
+
+Max stands out as an exceptional leader who leads by example and ensures that every voice within the team is heard.
+- During story-mapping sessions, he would present the required feature, actively listen, and encourage contributions from other team members—refining designs and requirements where necessary.
+- He consistently communicated the product and company vision within the team and bridged the gap between product and engineering through his strong technical expertise and experience.
+- When releasing new features, he encouraged team members to run demos, helping them strengthen their presentation and public-speaking skills.
+- He played a major role in fostering a healthy and collaborative culture across the team and organization — always giving credit to colleagues for their contributions and highlighting their impact.
+- He demonstrated creativity and adaptability in driving the adoption of AI tools within the organization, even winning an AI-focused hackathon.
+- He led initiatives that helped Codat establish itself as an organization that frequently hosts technical writing and coding meetups.
+
+Max has also temporarily stepped into other roles within the team when needed:
+- Engineering Manager – conducting one-to-ones and supporting career growth.
+- Product Designer – producing high-quality designs with ease and mentoring product managers in Figma.
+
+Above all, Max has always stood out as a genuine, driven, and open-minded professional. He consistently brings energy, vision, and thoughtful, growth-oriented discussions to every environment he is part of.
+
 ### Andy Jackson
 _PM @ Codat, direct report_
 
