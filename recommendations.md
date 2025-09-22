@@ -2,8 +2,19 @@
 
 Below are a collection of recommendations taken from [my LinkedIn profile](https://www.linkedin.com/in/maxclaytonclowes/).
 
+### Phil McKinney
+_Engineering Manager @ Codat_
+
+I had the pleasure of working closely with Max during his time Codat, and the impact he made through both vision and leadership was clear. What stood out most was his blend of deep technical knowledge with strong product vision. Discussions around tech debt, architectural decisions, or delivery challenges were always smooth and productive because he understood the technical implications and could align priorities with ease.
+
+At the same time, his eye for design and instinct for user experience were second to none. He could move seamlessly from big-picture strategy to the smallest design detail, ensuring both vision and execution were consistently top quality. His breadth of knowledge across domains made him an invaluable partner and a constant source of insight. He had a real focus on understanding the root of a problem rather than just opting for the quick fix.
+
+Before I joined Codat, Max temporarily managed the team I would go on to lead and did an outstanding job of focusing on their career growth and organisational health. The positive impact of that period is still felt long after, which speaks volumes about the kind of leader he is.
+
+Max is one of those rare leaders who elevates everyone around him, and I’d highly recommend him to any organisation looking for a visionary with the technical depth to truly partner with engineering.
+
 ### Zan Makarov
-_Software Engineer @ Codat_
+_Software Engineer @ Codat, mentee_
 
 I was very fortunate to begin my career in tech working on the same team as Max, who had a significant impact on my development in both technical and interpersonal skills.
 
@@ -20,6 +31,18 @@ Max has also temporarily stepped into other roles within the team when needed:
 - Product Designer – producing high-quality designs with ease and mentoring product managers in Figma.
 
 Above all, Max has always stood out as a genuine, driven, and open-minded professional. He consistently brings energy, vision, and thoughtful, growth-oriented discussions to every environment he is part of.
+
+### Polina Zaichkina
+
+_TW @ Codat, direct report_
+
+I have the pleasure of having Max both as my line manager and as my collaborator, thus getting the best of both worlds. Max is an outstanding product thinker with a rare combination of skills and qualities: he is creative, technologically savvy, capable, quick-thinking, empathetic, flexible, adaptive, and builds on his engineering background to truly build product vision from all perspectives. Max is a go-getter and loves to experiment, always looking for ways to improve and simplify products and internal processes.
+
+Max keeps abreast of everything that goes on in the company and with the company's products and is always happy to provide perspective on all things product and client experience, supporting his colleagues within the product domain. He feels the criticality of client experience within products deeply and advocates vocally for it within the organisation. At the same time, he works to make sure teams can easily incorporate improvements to the client experience into the entire landscape of the company's products.
+
+From a direct report perspective, Max is a supportive and understanding manager who puts a lot of value and focus on the employee's development. He is always keen to suggest new ways of growth and development supports his reports in practical ways, making sure they are nurtured and supported by the organisation. Max values people's input and opinions and prompts his reports to voice and record these opinions, helping them grow in idea generation.
+
+Max's influence and remit within the company have been deservedly expanding, and I am excited to see the heights Codat's products will achieve with his steer and ideation.
 
 ### Andy Jackson
 _PM @ Codat, direct report_
