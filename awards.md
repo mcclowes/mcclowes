@@ -12,7 +12,7 @@ Received the Duke of York's Young Entrepreneur Award for co-founding Codogo.
 
 _Durham University, 2016_
 
-Awarded for my dissertation, _The Use of Genetic AI in the Balancing of Competitive Multiplayer Games_, in which I built and then balanced and video game through insights gathered pitting Genetic AI against one another.
+Awarded for my dissertation, _The Use of Genetic AI in the Balancing of Competitive Multiplayer Games_, in which I built and then balanced a video game through insights gathered pitting Genetic AI against one another.
 
 [Read more...](http://bit.ly/39w8XLe)
 
@@ -28,7 +28,7 @@ Won Durham University's Business & Enterprise Department startup & IP awards off
 
 _2016_
 
-Genesis brought together students and alumni from 5 universities across North East England. Awarded a business pitch grant for to further develop the business concept.
+Genesis brought together students and alumni from 5 universities across North East England. Awarded a business pitch grant to further develop the business concept.
 
 ## Enterprise Kickstart Winner
 
@@ -46,6 +46,6 @@ Designed and pitched a BP Portrait Award app concept, winning mentorship and tec
 
 _Meat Management Magazine, 2012_
 
-Whilst working as a butcher as a Saturday job, I offered to get [Godfreys & Co.](https://www.godfreys.co/) online. Owner the proejct lifecycle through design, development, and delivery, and went on to win an industry award for it.
+Whilst working as a butcher as a Saturday job, I offered to get [Godfreys & Co.](https://www.godfreys.co/) online. Owned the project lifecycle through design, development, and delivery, and went on to win an industry award for it.
 
 [Read more...](https://www.godfreys.co/best-online-butcher-98-c.asp)
