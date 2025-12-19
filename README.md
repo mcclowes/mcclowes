@@ -14,7 +14,7 @@
   <p>Outside the screen, I write poetry, make music, and run — though not all at the same time. I’m also the kind of person who will disappear into a rabbit hole about anything from evolutionary AI to Pokémon game balance.</p>
 
   <p>📍 North London born and bred.</p>
-  <p>🖋 <a href="mcclowes.com">More about me</a></p>
+  <p>🖋 <a href="https://mcclowes.com">More about me</a></p>
   </samp>
 </div>
 
