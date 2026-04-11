@@ -40,3 +40,13 @@
     <li>🏓 For fun, I'm building a game in Unity</li>
   </ul>
 </details>
+
+<details>
+  <summary><b>📚 More about me</b></summary>
+  <ul>
+    <li>🧭 <a href="./blueprint.md">How I work</a> — a blueprint of my quirks and priorities as a leader</li>
+    <li>💬 <a href="./recommendations.md">Recommendations</a> from colleagues past and present</li>
+    <li>🏆 <a href="./awards.md">Awards &amp; prizes</a></li>
+    <li>📝 <a href="./feedback.md">Leadership feedback</a> from a recent review cycle</li>
+  </ul>
+</details>
